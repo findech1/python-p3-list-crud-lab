@@ -1,6 +1,6 @@
 # List CRUD Lab
 
-## Learning Goals
+## Learning Goals for python
 
 - Create, read, update, and delete elements from lists.
 
